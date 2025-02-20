@@ -5,7 +5,7 @@ If you find LOSAE useful for your work please cite:
 @article{balaji2025losae
   author    = {Balaji, Advaith and Pradhan, Saket and Berenson, Dmitry},
   title     = {Language-Guided Object Search in Agricultural Environments},
-  journal   = {ICRA},
+  journal   = {International Conference on Robotics and Automation (ICRA)},
   year      = {2025},
 }
 ```
